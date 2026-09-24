@@ -1,9 +1,9 @@
-#Title : Devsecops Journey
+# Title : Devsecops Journey
 
-##End Date : 08 25 2030
+## End Date : 08 25 2030
 
-**Structure** : 
+** Structure ** : 
 
--1. Concepts
--2. Summary 
--3. Warning notes
+- 1. Concepts
+- 2. Summary 
+- 3. Warning notes
