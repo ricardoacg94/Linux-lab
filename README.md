@@ -1,9 +1,12 @@
-# Title : Devsecops Journey
+# Title : Phase 1 Journey 
 
-## End Date : 08 25 2030
+## End Date : April 2027
 
-** Structure ** : 
+**Structure** : 
 
 - 1. Concepts
 - 2. Summary 
 - 3. Warning notes
+- 4. Tests
+- 5. Laboratories 
+
