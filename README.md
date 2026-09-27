@@ -9,4 +9,5 @@
 - 3. Warning notes
 - 4. Tests
 - 5. Laboratories 
+- 6. Important notes
 
