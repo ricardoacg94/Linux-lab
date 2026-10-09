@@ -11,5 +11,7 @@
 - 5. Laboratories 
 - 6. Important notes
 
+## Rules : 
 
-### Week 2
+- Practice before theory
+
