@@ -14,4 +14,5 @@
 ## Rules : 
 
 - Practice before theory
+- Do not delete commits that have been pushed to github
 
