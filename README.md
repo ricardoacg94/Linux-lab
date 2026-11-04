@@ -14,4 +14,6 @@
 ## Rules : 
 
 - Practice before theory
+- Keeping tracking of the changes
+
 
