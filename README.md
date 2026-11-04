@@ -15,5 +15,6 @@
 
 - Practice before theory
 - Keeping tracking of the changes
+- Do not delete commits that have been pushed to github
 
 
