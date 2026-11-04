@@ -17,5 +17,6 @@
 - Keeping tracking of the changes
 - Do not delete commits that have been pushed to github
 - Alway PR before updating remote main branch
+- Keep conventional commits messages 
 
 
