@@ -28,6 +28,8 @@ https://www.conventionalcommits.org/en/v1.0.0/
 ## Rules
 
 - No secrets in the repo
-- review you changs in details before creating pull request.
-- Built without AI assitance
+- review your changes in details before creating pull request.
+- Built without AI assitance, however leraning how to apply AI efficiently 
+- Keeping clean changes easy to understand for others
+- Atomic changes rules
 

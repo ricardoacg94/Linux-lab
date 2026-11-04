@@ -14,4 +14,10 @@
 ## Rules : 
 
 - Practice before theory
+- Keeping tracking of the changes
+- Do not delete or rebase on commits/branches that have been pushed to github
+- Alway PR before updating remote main branch
+- Keep conventional commits messages 
+
+
 
